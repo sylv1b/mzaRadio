@@ -489,9 +489,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C62CAA64E89627A5D5F4872E /* Pods-mzaradio.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R3N76DA7KB;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = mzaradio/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -503,7 +504,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mzaradio.player;
 				PRODUCT_NAME = mzaradio;
 				SWIFT_OBJC_BRIDGING_HEADER = "mzaradio-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -516,9 +517,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9D57DE8F3F6D3FEAF960CB1B /* Pods-mzaradio.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R3N76DA7KB;
 				INFOPLIST_FILE = mzaradio/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -529,7 +531,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mzaradio.player;
 				PRODUCT_NAME = mzaradio;
 				SWIFT_OBJC_BRIDGING_HEADER = "mzaradio-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
