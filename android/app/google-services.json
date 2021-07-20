@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632773770563",
+    "project_id": "mza-radio",
+    "storage_bucket": "mza-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632773770563:android:560f296c27cc87055643f6",
+        "android_client_info": {
+          "package_name": "com.mzaradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632773770563-e61p6fp8f2gsb7fjksn3muar4kfi08n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mzaradio",
+            "certificate_hash": "db948ed0fb293dbc54e08ba15b49591c0b895bfb"
+          }
+        },
+        {
+          "client_id": "632773770563-nfsamit87nq6n01kirj61fbst8qdaktq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzP9dfwTg2QHpgVrGuOOw5Lz9AaPPynJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632773770563-nfsamit87nq6n01kirj61fbst8qdaktq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
